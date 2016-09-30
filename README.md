@@ -1,7 +1,7 @@
 #Personalized Restaurant Recommendation System
 
 Imagine that you just land on a new city and you want to find the best restaurants around at your preference? This system is built for you :-) </br>
-
+<img width="1004" alt="resturaunt_recommendations ui" src="https://cloud.githubusercontent.com/assets/17118374/19009570/2abe6eaa-872a-11e6-953e-8371e7e951d2.png"></br>
 The frontend was done by HTML, CSS and Javascript. AJAX was used to communicate with the backend. </br>
 The front end codes are in /WebContent</br>
 </br>
